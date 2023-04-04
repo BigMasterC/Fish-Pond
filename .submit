@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project P8 - Fish Club: Fish Club
+
+courseName=CMSC131
+semester=202208
+projectNumber=P8 - Fish Club
+courseKey=c4d9276187d3a862
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2022
+submitURL=https://submit.cs.umd.edu:443/fall2022/eclipse/SubmitProjectViaEclipse
